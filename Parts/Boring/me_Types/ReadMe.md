@@ -5,26 +5,20 @@
 Base type definitions. This library is required for another libraries
 from me.
 
-Name of base types that suits my current taste.
+Name of base types suits my current taste.
 
 ## Details
 
 ```
-TSint_1 == signed char
-TSint_2 == signed int
-TSint_4 == signed long int
-TSint_8 == signed long long int
+TBool
 
-TUint_1 == unsigned char
-TUint_2 == unsigned int
-TUint_4 == unsigned long int
-TUint_8 == unsigned long long int
+TChar
 
-TChar == char
+TUint_1 TUint_2 TUint_4 TUint_8
 
-TBool == bool
+TSint_1 TSint_2 TSint_4 TSint_8
 
-TFloat == float
+TFloat
 ```
 
 ## See also
