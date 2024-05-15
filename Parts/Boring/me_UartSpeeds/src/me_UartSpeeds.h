@@ -11,21 +11,21 @@
 
   Of course in code you need
 
-    #include <me_Uart.h>
+    #include <me_UartSpeeds.h>
     ...
-    Serial.begin(me_Uart::Arduino_Normal_Bps);
+    Serial.begin(me_UartSpeeds::Arduino_Normal_Bps);
 
   instead of
 
     Serial.begin(57600);
 
   Choice is yours, there are no policies, just possibilities.
-
-  This module has nothing more so far.
 */
 
-// Author: Martin Eden
-// Last mod.: 2024-04-09
+/*
+  Author: Martin Eden
+  Last mod.: 2024-04-09
+*/
 
 #pragma once
 
@@ -54,3 +54,8 @@ namespace me_UartSpeeds
   const StandardSpeeds Arduino_Normal_Bps = Bps_57600;
   const StandardSpeeds Esplora_Normal_Bps = Bps_115200;
 }
+
+/*
+  2024-03-12
+  2024-04-09
+*/
