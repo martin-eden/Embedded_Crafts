@@ -2,7 +2,7 @@
 
 (2016 .. )
 
-Look into specific directories, some (will) have their own ReadMe's.
+Look into specific directories, they have their own ReadMe's.
 
 Firmware for physical projects is in "Ships". More generic code in "Parts".
 
