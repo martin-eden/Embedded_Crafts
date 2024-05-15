@@ -30,7 +30,7 @@ void InstallStandardStreams()
   /*
     fdevopen() creates stream and has side effects.
 
-    Side effect are setting std streams to newly created stream
+    Side effects are setting std streams to newly created stream
     (if they were not set).
 
     We are calling it for it's side effects but still assign
