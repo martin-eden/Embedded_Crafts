@@ -18,6 +18,7 @@ Less boring
 
 [me_Types]: https://github.com/martin-eden/Embedded-me_Types
 [me_UartSpeeds]: https://github.com/martin-eden/Embedded-me_UartSpeeds
+[me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
 
 [me_WifiShip]: https://github.com/martin-eden/EmbeddedCpp_me_WifiShip
 [me_Ws2812b]: https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b
