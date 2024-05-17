@@ -6,7 +6,7 @@ Each one has to be in separate repo to make installation possible
 via `arduino-cli lib install`.
 
 Boring
-  * [me_Types][me_Types]
+  * [me_BaseTypes][me_BaseTypes]
   * [me_UartSpeeds][me_UartSpeeds]
   * [me_InstallStandardStreams][me_InstallStandardStreams]
   * [me_SerialTokenizer][me_SerialTokenizer]
@@ -17,7 +17,7 @@ Less boring
   * [me_WifiShip][me_WifiShip]
   * [me_Ws2812b][me_Ws2812b]
 
-[me_Types]: https://github.com/martin-eden/Embedded-me_Types
+[me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
 [me_UartSpeeds]: https://github.com/martin-eden/Embedded-me_UartSpeeds
 [me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
