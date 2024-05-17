@@ -11,6 +11,7 @@ Boring
   * [me_InstallStandardStreams][me_InstallStandardStreams]
   * [me_SerialTokenizer][me_SerialTokenizer]
   * [me_ParseInteger][me_ParseInteger]
+  * [me_ConvertUnits_Angle][me_ConvertUnits_Angle]
 
 Less boring
   * [me_WifiShip][me_WifiShip]
@@ -21,5 +22,7 @@ Less boring
 [me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
+[me_ConvertUnits_Angle]:https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
+
 [me_WifiShip]: https://github.com/martin-eden/EmbeddedCpp_me_WifiShip
 [me_Ws2812b]: https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b
