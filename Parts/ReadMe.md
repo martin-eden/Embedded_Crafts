@@ -13,6 +13,7 @@ Boring
   * [me_ParseInteger][me_ParseInteger]
   * [me_ConvertUnits_Angle][me_ConvertUnits_Angle]
   * [me_MemoryPoint][me_MemoryPoint]
+  * [me_MemorySegment][me_MemorySegment]
 
 Less boring
   * [me_WifiShip][me_WifiShip]
@@ -23,8 +24,9 @@ Less boring
 [me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
-[me_ConvertUnits_Angle]:https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
-[me_MemoryPoint]:https://github.com/martin-eden/Embedded-me_MemoryPoint
+[me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
+[me_MemoryPoint]: https://github.com/martin-eden/Embedded-me_MemoryPoint
+[me_MemorySegment]: https://github.com/martin-eden/Embedded-me_MemorySegment
 
 [me_WifiShip]: https://github.com/martin-eden/EmbeddedCpp_me_WifiShip
 [me_Ws2812b]: https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b
