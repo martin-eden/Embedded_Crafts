@@ -30,5 +30,5 @@ Less boring
 [me_MemorySegment]: https://github.com/martin-eden/Embedded-me_MemorySegment
 [me_UnoAddresses]: https://github.com/martin-eden/Embedded-me_UnoAddresses
 
-[me_WifiShip]: https://github.com/martin-eden/EmbeddedCpp_me_WifiShip
-[me_Ws2812b]: https://github.com/martin-eden/EmbeddedCpp-me_Ws2812b
+[me_WifiShip]: https://github.com/martin-eden/Embedded-me_WifiShip
+[me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
