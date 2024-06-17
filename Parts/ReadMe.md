@@ -21,6 +21,8 @@ Boring (improving quality of life (QOL))
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle]
 
 Less boring
+  * Interface
+    * [me_Menu][me_Menu]
   * Devices
     * [me_Ws2812b][me_Ws2812b]
   * API wrappers
@@ -39,5 +41,6 @@ Less boring
 
 [me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
 
+[me_Menu]: https://github.com/martin-eden/Embedded-me_Menu
 [me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
 [me_WifiShip]: https://github.com/martin-eden/Embedded-me_WifiShip
