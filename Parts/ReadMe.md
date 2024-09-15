@@ -1,11 +1,11 @@
 # What
 
-My relatively recent Embedded C++ libraries.
+My embedded C++ libraries.
 
 Each one has to be in separate repo to make installation possible
 via `arduino-cli lib install`.
 
-* Boring (improving quality of life)
+* Boring (ground quality of life)
   * Bootstrap
     * [me_BaseTypes][me_BaseTypes]
     * [me_UartSpeeds][me_UartSpeeds]
@@ -25,12 +25,10 @@ via `arduino-cli lib install`.
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle]
 
 * Less boring
-  * Communication protocol framework
-    * [me_Menu][me_Menu]
-  * External devices
-    * [me_Ws2812b][me_Ws2812b]
-  * API wrappers
-    * [me_WifiShip][me_WifiShip]
+  * [me_Menu][me_Menu] Communication protocol framework
+  * [me_Ws2812b][me_Ws2812b] RGB stripe (WS2112B) driver
+  * [me_RgbStripe][me_RgbStripe] Class for RGB stripe
+  * [me_WifiShip][me_WifiShip] Esplora WiFi scanning and connection
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
 [me_UartSpeeds]: https://github.com/martin-eden/Embedded-me_UartSpeeds
@@ -51,4 +49,5 @@ via `arduino-cli lib install`.
 
 [me_Menu]: https://github.com/martin-eden/Embedded-me_Menu
 [me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
+[me_RgbStripe]: https://github.com/martin-eden/Embedded-me_RgbStripe
 [me_WifiShip]: https://github.com/martin-eden/Embedded-me_WifiShip
