@@ -28,6 +28,7 @@ via `arduino-cli lib install`.
   * [me_Menu][me_Menu] Communication protocol framework
   * [me_Ws2812b][me_Ws2812b] RGB stripe (WS2112B) driver
   * [me_RgbStripe][me_RgbStripe] Class for RGB stripe
+  * [me_RgbStripeConsole][me_RgbStripeConsole] (2024-09) Text interface for RGB stripe
   * [me_WifiShip][me_WifiShip] Esplora WiFi scanning and connection
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
@@ -50,4 +51,5 @@ via `arduino-cli lib install`.
 [me_Menu]: https://github.com/martin-eden/Embedded-me_Menu
 [me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
 [me_RgbStripe]: https://github.com/martin-eden/Embedded-me_RgbStripe
+[me_RgbStripeConsole]: https://github.com/martin-eden/Embedded-me_RgbStripeConsole
 [me_WifiShip]: https://github.com/martin-eden/Embedded-me_WifiShip
