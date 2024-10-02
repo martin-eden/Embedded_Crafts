@@ -2,6 +2,10 @@
 
 (2016 .. )
 
+* [Infrastructure][acli]
+
+  Shell scripts for automation over `arduino-cli`
+
 * [Libraries](Parts)
 * [Projects](Ships)
 
@@ -16,4 +20,5 @@ See also [my other repositories][repos].
 
 -- Martin, 2024-05-17
 
+[acli]: https://github.com/martin-eden/Bash-ArduinoCliWrappers
 [repos]: https://github.com/martin-eden/contents
