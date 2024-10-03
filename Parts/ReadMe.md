@@ -24,6 +24,8 @@ via `arduino-cli lib install`.
     * [me_ReadInteger][me_ReadInteger] (2024-10)
   * Unit conversion
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024-05)
+  * Output
+    * [me_Console][me_Console] (2024-10)
 
 * Less boring
   * Esplora WiFi
@@ -52,6 +54,7 @@ via `arduino-cli lib install`.
 [me_ReadInteger]: https://github.com/martin-eden/Embedded-me_ReadInteger
 
 [me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
+[me_Console]: https://github.com/martin-eden/Embedded-me_Console
 
 [me_Menu]: https://github.com/martin-eden/Embedded-me_Menu
 [me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
