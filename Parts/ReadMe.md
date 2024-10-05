@@ -7,20 +7,20 @@ via `arduino-cli lib install`.
 
 * Boring (ground quality of life)
   * Bootstrap
-    * [me_BaseTypes][me_BaseTypes] (2024-02, 2024-05)
+    * [me_BaseTypes][me_BaseTypes] (2024-02/2024-09)
     * [me_UartSpeeds][me_UartSpeeds] (2024-03)
-    * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11, 2024-05)
+    * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
   * Memory
-    * [me_MemoryPoint][me_MemoryPoint] (2024-05)
     * [me_UnoAddresses][me_UnoAddresses] (2024-05)
-    * [me_MemorySegment][me_MemorySegment] (2024-05 .. 2024-06)
-    * [me_ManagedMemory][me_ManagedMemory] (2024-06)
+    * [me_MemoryPoint][me_MemoryPoint] (2024-05)
+    * [me_MemorySegment][me_MemorySegment] (2024-05/2024-10)
+    * [me_ManagedMemory][me_ManagedMemory] (2024-06/2024-10)
   * Data structures
-    * [me_List][me_List] (2024-05 .. 2024-06)
+    * [me_List][me_List] (2024-05/2024-06)
     * [me_StoredCall][me_StoredCall] (2024-06)
   * Parsing
-    * [me_SerialTokenizer][me_SerialTokenizer] (2024-05 .. 2024-06)
-    * [me_ParseInteger][me_ParseInteger] (2024-05)
+    * [me_SerialTokenizer][me_SerialTokenizer] (2024-05/2024-06)
+    * [me_ParseInteger][me_ParseInteger] (2024-05/2024-10)
     * [me_ReadInteger][me_ReadInteger] (2024-10)
   * Unit conversion
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024-05)
@@ -29,11 +29,11 @@ via `arduino-cli lib install`.
 
 * Less boring
   * Esplora WiFi
-    * [me_WifiShip][me_WifiShip] (2023-12 .. 2024-02) WiFi: scan and connect
+    * [me_WifiShip][me_WifiShip] (2023-12/2024-02) WiFi: scan and connect
   * Communication protocol framework
-    * [me_Menu][me_Menu] (2024-05 .. 2024-06)
+    * [me_Menu][me_Menu] (2024-05/2024-06)
   * RGB stripe WS2812B
-    * [me_Ws2812b][me_Ws2812b] (2024-03 .. 2024-05) Driver
+    * [me_Ws2812b][me_Ws2812b] (2024-03/2024-05) Driver
     * [me_RgbStripe][me_RgbStripe] (2024-09) Class for driver
     * [me_RgbStripeConsole][me_RgbStripeConsole] (2024-09) Text interface for class
 
