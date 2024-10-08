@@ -22,6 +22,8 @@ via `arduino-cli lib install`.
     * [me_SerialTokenizer][me_SerialTokenizer] (2024-05/2024-06)
     * [me_ParseInteger][me_ParseInteger] (2024-05/2024-10)
     * [me_ReadInteger][me_ReadInteger] (2024-10)
+  * Compiling
+    * [me_String][me_String] (2024-10)
   * Unit conversion
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024-05)
   * Output
@@ -52,6 +54,8 @@ via `arduino-cli lib install`.
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
 [me_ReadInteger]: https://github.com/martin-eden/Embedded-me_ReadInteger
+
+[me_String]: https://github.com/martin-eden/Embedded-me_String
 
 [me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
 [me_Console]: https://github.com/martin-eden/Embedded-me_Console
