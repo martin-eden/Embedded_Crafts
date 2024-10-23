@@ -12,7 +12,6 @@ via `arduino-cli lib install`.
     * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
   * Memory
     * [me_UnoAddresses][me_UnoAddresses] (2024-05)
-    * [me_MemoryPoint][me_MemoryPoint] (2024-05)
     * [me_MemorySegment][me_MemorySegment] (2024-05/2024-10)
     * [me_ManagedMemory][me_ManagedMemory] (2024-06/2024-10)
   * Data structures
@@ -43,7 +42,6 @@ via `arduino-cli lib install`.
 [me_UartSpeeds]: https://github.com/martin-eden/Embedded-me_UartSpeeds
 [me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
 
-[me_MemoryPoint]: https://github.com/martin-eden/Embedded-me_MemoryPoint
 [me_UnoAddresses]: https://github.com/martin-eden/Embedded-me_UnoAddresses
 [me_MemorySegment]: https://github.com/martin-eden/Embedded-me_MemorySegment
 [me_ManagedMemory]: https://github.com/martin-eden/Embedded-me_ManagedMemory
