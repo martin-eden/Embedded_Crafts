@@ -14,6 +14,7 @@ via `arduino-cli lib install`.
     * [me_UnoAddresses][me_UnoAddresses] (2024-05)
     * [me_MemorySegment][me_MemorySegment] (2024-05/2024-10)
     * [me_ManagedMemory][me_ManagedMemory] (2024-06/2024-10)
+    * [me_Heap][me_Heap] (2024-10)
   * Data structures
     * [me_List][me_List] (2024-05/2024-06)
     * [me_StoredCall][me_StoredCall] (2024-06)
@@ -45,6 +46,7 @@ via `arduino-cli lib install`.
 [me_UnoAddresses]: https://github.com/martin-eden/Embedded-me_UnoAddresses
 [me_MemorySegment]: https://github.com/martin-eden/Embedded-me_MemorySegment
 [me_ManagedMemory]: https://github.com/martin-eden/Embedded-me_ManagedMemory
+[me_Heap]: https://github.com/martin-eden/Embedded-me_Heap
 
 [me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
 [me_List]: https://github.com/martin-eden/Embedded-me_List
