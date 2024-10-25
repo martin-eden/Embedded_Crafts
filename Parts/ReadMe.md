@@ -22,6 +22,7 @@ via `arduino-cli lib install`.
     * [me_ParseInteger][me_ParseInteger] (2024-05/2024-10)
     * [me_ReadInteger][me_ReadInteger] (2024-10)
     * [me_String][me_String] (2024-10)
+    * [me_Bits][me_Bits] (2024-10)
   * Unit conversion
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024-05)
   * Data structures
@@ -53,6 +54,7 @@ via `arduino-cli lib install`.
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
 [me_ReadInteger]: https://github.com/martin-eden/Embedded-me_ReadInteger
 [me_String]: https://github.com/martin-eden/Embedded-me_String
+[me_Bits]: https://github.com/martin-eden/Embedded-me_Bits
 
 [me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
 
