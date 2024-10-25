@@ -15,19 +15,18 @@ via `arduino-cli lib install`.
     * [me_MemorySegment][me_MemorySegment] (2024-05/2024-10)
     * [me_ManagedMemory][me_ManagedMemory] (2024-06/2024-10)
     * [me_Heap][me_Heap] (2024-10)
-  * Data structures
-    * [me_List][me_List] (2024-05/2024-06)
-    * [me_StoredCall][me_StoredCall] (2024-06)
-  * Parsing
+  * Output
+    * [me_Console][me_Console] (2024-10)
+  * Base types parsing/compiling
     * [me_SerialTokenizer][me_SerialTokenizer] (2024-05/2024-06)
     * [me_ParseInteger][me_ParseInteger] (2024-05/2024-10)
     * [me_ReadInteger][me_ReadInteger] (2024-10)
-  * Compiling
     * [me_String][me_String] (2024-10)
   * Unit conversion
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024-05)
-  * Output
-    * [me_Console][me_Console] (2024-10)
+  * Data structures
+    * [me_List][me_List] (2024-05/2024-06)
+    * [me_StoredCall][me_StoredCall] (2024-06)
 
 * Less boring
   * Esplora WiFi
@@ -48,17 +47,17 @@ via `arduino-cli lib install`.
 [me_ManagedMemory]: https://github.com/martin-eden/Embedded-me_ManagedMemory
 [me_Heap]: https://github.com/martin-eden/Embedded-me_Heap
 
-[me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
-[me_List]: https://github.com/martin-eden/Embedded-me_List
+[me_Console]: https://github.com/martin-eden/Embedded-me_Console
 
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
 [me_ReadInteger]: https://github.com/martin-eden/Embedded-me_ReadInteger
-
 [me_String]: https://github.com/martin-eden/Embedded-me_String
 
 [me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
-[me_Console]: https://github.com/martin-eden/Embedded-me_Console
+
+[me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
+[me_List]: https://github.com/martin-eden/Embedded-me_List
 
 [me_Menu]: https://github.com/martin-eden/Embedded-me_Menu
 [me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
