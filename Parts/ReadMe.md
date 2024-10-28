@@ -9,6 +9,7 @@ via `arduino-cli lib install`.
   * Bootstrap
     * [me_BaseTypes][me_BaseTypes] (2024-02/2024-09)
     * [me_UartSpeeds][me_UartSpeeds] (2024-03)
+    * [me_Uart][me_Uart] (2024-10)
     * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
   * Memory
     * [me_UnoAddresses][me_UnoAddresses] (2024-05)
@@ -41,6 +42,7 @@ via `arduino-cli lib install`.
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
 [me_UartSpeeds]: https://github.com/martin-eden/Embedded-me_UartSpeeds
+[me_Uart]: https://github.com/martin-eden/Embedded-me_Uart
 [me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
 
 [me_UnoAddresses]: https://github.com/martin-eden/Embedded-me_UnoAddresses
