@@ -1,6 +1,6 @@
 # What
 
-My embedded C++ libraries.
+My framework of embedded C++ libraries.
 
 Each one has to be in separate repo to make installation possible
 via `arduino-cli lib install`.
