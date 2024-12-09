@@ -6,6 +6,6 @@ My relatively recent Arduino/hardware projects.
 
   Two-wheeled platform. Motors, gyro, Uno, Esplora. UART, WiFi.
 
-* [MemoryExplorer](https://github.com/martin-eden/Embedded_MemoryExplorer)
+* [MemoryDumper](https://github.com/martin-eden/Embedded_MemoryDumper)
 
   Snippet. Uno, UART.
