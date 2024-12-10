@@ -4,9 +4,12 @@
 
  My creations for embedded projects
 
-* [Infrastructure][acli]
+* Infrastructure
 
-  Shell scripts for automation over `arduino-cli`
+  [ino][ino] - one-line command to compile, upload and open serial monitor.
+    (Plus more granular but short commands.)
+  [GetLibs][GetLibs] - shell script to deploy/remove *all* my libraries.
+    (Because maintaining dependency scripts for two dozen repos is a hassle.)
 
 * [Libraries](Parts)
 
@@ -25,5 +28,6 @@ License is GPLv3 if I forgot to place it.
 
 * [My other repositories][repos]
 
-[acli]: https://github.com/martin-eden/Bash-ArduinoCliWrappers
+[ino]: https://github.com/martin-eden/Bash-ArduinoCliWrappers
+[GetLibs]: https://github.com/martin-eden/Embedded-Framework-GetLibs
 [repos]: https://github.com/martin-eden/contents
