@@ -12,7 +12,7 @@ via `arduino-cli lib install`.
     * [me_Uart][me_Uart] (2024-10)
     * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
   * Memory
-    * [me_UnoAddresses][me_UnoAddresses] (2024-05)
+    * [me_UnoAddresses][me_UnoAddresses] (2024-05, 2024-12)
     * [me_MemorySegment][me_MemorySegment] (2024-05/2024-10)
     * [me_ManagedMemory][me_ManagedMemory] (2024-06/2024-10)
     * [me_Heap][me_Heap] (2024-10)
