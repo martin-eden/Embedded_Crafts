@@ -17,6 +17,7 @@ via `arduino-cli lib install`.
     * [me_ManagedMemory][me_ManagedMemory] (2024-06/2024-10)
     * [me_Heap][me_Heap] (2024-10)
     * [me_FlashMemory][me_FlashMemory] (2024-12)
+    * [me_WorkMemory][me_WorkMemory] (2024-12)
   * Output
     * [me_Console][me_Console] (2024-10)
   * Base types parsing/compiling
@@ -51,6 +52,7 @@ via `arduino-cli lib install`.
 [me_ManagedMemory]: https://github.com/martin-eden/Embedded-me_ManagedMemory
 [me_Heap]: https://github.com/martin-eden/Embedded-me_Heap
 [me_FlashMemory]: https://github.com/martin-eden/Embedded-me_FlashMemory
+[me_WorkMemory]: https://github.com/martin-eden/Embedded-me_WorkMemory
 
 [me_Console]: https://github.com/martin-eden/Embedded-me_Console
 
