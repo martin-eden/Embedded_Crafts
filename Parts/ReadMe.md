@@ -24,7 +24,7 @@ via `arduino-cli lib install`.
     * [me_SerialTokenizer][me_SerialTokenizer] (2024-05/2024-06)
     * [me_ParseInteger][me_ParseInteger] (2024-05/2024-10)
     * [me_ReadInteger][me_ReadInteger] (2024-10)
-    * [me_String][me_String] (2024-10)
+    * [me_CodecDecInt][me_CodecDecInt] (2024-10, 2024-12)
     * [me_Bits][me_Bits] (2024-10)
     * [me_Asciiz][me_Asciiz] (2024-12)
   * Unit conversion
@@ -60,7 +60,7 @@ via `arduino-cli lib install`.
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
 [me_ReadInteger]: https://github.com/martin-eden/Embedded-me_ReadInteger
-[me_String]: https://github.com/martin-eden/Embedded-me_String
+[me_CodecDecInt]: https://github.com/martin-eden/Embedded-me_CodecDecInt
 [me_Bits]: https://github.com/martin-eden/Embedded-me_Bits
 [me_Asciiz]: https://github.com/martin-eden/Embedded-me_Asciiz
 
