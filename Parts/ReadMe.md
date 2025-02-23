@@ -8,8 +8,9 @@ via `arduino-cli lib install`.
 * Boring (ground quality of life)
   * Bootstrap
     * [me_BaseTypes][me_BaseTypes] (2024-02/2024-09)
-    * [me_Uart][me_Uart] (2024-10)
     * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
+    * [me_Uart][me_Uart] (2024-10)
+    * [me_Counters][me_Counters] (2024-12/2025-02)
   * Memory
     * [me_UnoAddresses][me_UnoAddresses] (2024-05, 2024-12)
     * [me_MemorySegment][me_MemorySegment] (2024-05/2024-10)
@@ -44,8 +45,9 @@ via `arduino-cli lib install`.
     * [me_RgbStripeConsole][me_RgbStripeConsole] (2024-09) Text interface for class
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
-[me_Uart]: https://github.com/martin-eden/Embedded-me_Uart
 [me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
+[me_Uart]: https://github.com/martin-eden/Embedded-me_Uart
+[me_Counters]: https://github.com/martin-eden/Embedded-me_Counters
 
 [me_UnoAddresses]: https://github.com/martin-eden/Embedded-me_UnoAddresses
 [me_MemorySegment]: https://github.com/martin-eden/Embedded-me_MemorySegment
