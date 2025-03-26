@@ -29,8 +29,9 @@ via `arduino-cli lib install`.
     * [me_CodecDecInt][me_CodecDecInt] (2024-10, 2024-12)
     * [me_Bits][me_Bits] (2024-10)
     * [me_Asciiz][me_Asciiz] (2024-12)
-  * Unit conversion
+  * Units conversion
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024-05)
+    * [me_Timestamp][me_Timestamp] (2025-03)
   * Data structures
     * [me_List][me_List] (2024-05/2024-06)
     * [me_StoredCall][me_StoredCall] (2024-06)
@@ -69,6 +70,7 @@ via `arduino-cli lib install`.
 [me_Asciiz]: https://github.com/martin-eden/Embedded-me_Asciiz
 
 [me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
+[me_Timestamp]: https://github.com/martin-eden/Embedded-me_Timestamp
 
 [me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
 [me_List]: https://github.com/martin-eden/Embedded-me_List
