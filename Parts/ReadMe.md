@@ -9,7 +9,7 @@ via `arduino-cli lib install`.
   * Bootstrap
     * [me_BaseTypes][me_BaseTypes] (2024-02/2024-09)
     * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
-    * [me_Uart][me_Uart] (2024-10)
+    * [me_Uart][me_Uart] (2024-10/2024-12, 2025-07)
     * [me_Counters][me_Counters] (2024-12/2025-02)
       * [me_RunTime][me_RunTime] (2025-03)
     * [me_Eeprom][me_Eeprom] (2025-07)
