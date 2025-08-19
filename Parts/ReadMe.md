@@ -29,6 +29,7 @@ via `arduino-cli lib install`.
     * [me_ReadInteger][me_ReadInteger] (2024-10)
     * [me_CodecDecInt][me_CodecDecInt] (2024-10, 2024-12)
     * [me_Bits][me_Bits] (2024-10)
+    * [me_Bits_Workmem][me_Bits_Workmem] (2025-08)
     * [me_Asciiz][me_Asciiz] (2024-12)
   * Units conversion
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024-05)
@@ -69,6 +70,7 @@ via `arduino-cli lib install`.
 [me_ReadInteger]: https://github.com/martin-eden/Embedded-me_ReadInteger
 [me_CodecDecInt]: https://github.com/martin-eden/Embedded-me_CodecDecInt
 [me_Bits]: https://github.com/martin-eden/Embedded-me_Bits
+[me_Bits_Workmem]: https://github.com/martin-eden/Embedded-me_Bits_Workmem
 [me_Asciiz]: https://github.com/martin-eden/Embedded-me_Asciiz
 
 [me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
