@@ -1,6 +1,6 @@
 ## What
 
- (2016 .. )
+ (since 2016)
 
  My creations for embedded projects
 
@@ -8,12 +8,11 @@
 
   [ino][ino] - one-line command to compile, upload and open serial monitor.
     (Plus more granular but short commands.)
-  [GetLibs][GetLibs] - shell script to deploy/remove *all* my libraries.
-    (Because maintaining dependency scripts for two dozen repos is a hassle.)
+  [GetLibs][GetLibs] - shell script to deploy/remove *all* my active libraries.
 
 * [Libraries](Parts)
 
-  Libraries, over dozen of them!
+  Libraries, over two dozen of them!
 
 * [Projects](Ships)
 
@@ -22,7 +21,16 @@
   Still, code should be compilable when you collect all required libraries.
   If not, open issue.
 
-License is GPLv3 if I forgot to place it.
+* Graveyard
+
+  * [Early projects/libraries][Scrapyard]
+  * [Redirect printf()'s to UART][me_InstallStandardStreams]
+
+
+## License
+
+Default license is LGPLv3.
+
 
 ## See also
 
@@ -30,4 +38,8 @@ License is GPLv3 if I forgot to place it.
 
 [ino]: https://github.com/martin-eden/Bash-ArduinoCliWrappers
 [GetLibs]: https://github.com/martin-eden/Embedded-Framework-GetLibs
+
+[Scrapyard]: https://github.com/martin-eden/Embedded_Scrapyard
+[me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
+
 [repos]: https://github.com/martin-eden/contents
