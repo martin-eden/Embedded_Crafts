@@ -24,7 +24,6 @@
 * Graveyard
 
   * [Early projects/libraries][Scrapyard]
-  * [Redirect printf()'s to UART][me_InstallStandardStreams]
 
 
 ## License
@@ -40,6 +39,5 @@ Default license is LGPLv3.
 [GetLibs]: https://github.com/martin-eden/Embedded-Framework-GetLibs
 
 [Scrapyard]: https://github.com/martin-eden/Embedded_Scrapyard
-[me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
 
 [repos]: https://github.com/martin-eden/contents
