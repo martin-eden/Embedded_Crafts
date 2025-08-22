@@ -8,14 +8,12 @@ via `arduino-cli lib install`.
 * Boring (ground quality of life)
   * Bootstrap
     * [me_BaseTypes][me_BaseTypes] (2024-02/2024-09)
-    * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
     * [me_Uart][me_Uart] (2024-10/2024-12, 2025-07)
     * [me_Counters][me_Counters] (2024-12/2025-02)
       * [me_RunTime][me_RunTime] (2025-03)
     * [me_Pins][me_Pins] (2025-08)
     * [me_Delays][me_Delays] (2025-08)
   * Memory
-    * [me_UnoAddresses][me_UnoAddresses] (2024-05, 2024-12)
     * [me_MemorySegment][me_MemorySegment] (2024-05/2024-10)
     * [me_ManagedMemory][me_ManagedMemory] (2024-06/2024-10)
     * [me_SegmentProcessor][me_SegmentProcessor] (2024-12)
@@ -50,15 +48,18 @@ via `arduino-cli lib install`.
     * [me_RgbStripe][me_RgbStripe] (2024-09) Class for driver
     * [me_RgbStripeConsole][me_RgbStripeConsole] (2024-09) Text interface for class
 
+* Obsolete
+  * Bootstrap
+    * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
+    * [me_UnoAddresses][me_UnoAddresses] (2024-05, 2024-12)
+
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
-[me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
 [me_Uart]: https://github.com/martin-eden/Embedded-me_Uart
 [me_Counters]: https://github.com/martin-eden/Embedded-me_Counters
 [me_RunTime]: https://github.com/martin-eden/Embedded-me_RunTime
 [me_Pins]: https://github.com/martin-eden/Embedded-me_Pins
 [me_Delays]: https://github.com/martin-eden/Embedded-me_Delays
 
-[me_UnoAddresses]: https://github.com/martin-eden/Embedded-me_UnoAddresses
 [me_MemorySegment]: https://github.com/martin-eden/Embedded-me_MemorySegment
 [me_ManagedMemory]: https://github.com/martin-eden/Embedded-me_ManagedMemory
 [me_SegmentProcessor]: https://github.com/martin-eden/Embedded-me_SegmentProcessor
@@ -80,11 +81,14 @@ via `arduino-cli lib install`.
 [me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
 [me_Timestamp]: https://github.com/martin-eden/Embedded-me_Timestamp
 
-[me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
 [me_List]: https://github.com/martin-eden/Embedded-me_List
+[me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
 
+[me_WifiShip]: https://github.com/martin-eden/Embedded-me_WifiShip
 [me_Menu]: https://github.com/martin-eden/Embedded-me_Menu
 [me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
 [me_RgbStripe]: https://github.com/martin-eden/Embedded-me_RgbStripe
 [me_RgbStripeConsole]: https://github.com/martin-eden/Embedded-me_RgbStripeConsole
-[me_WifiShip]: https://github.com/martin-eden/Embedded-me_WifiShip
+
+[me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
+[me_UnoAddresses]: https://github.com/martin-eden/Embedded-me_UnoAddresses
