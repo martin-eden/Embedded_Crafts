@@ -17,7 +17,6 @@ via `arduino-cli lib install`.
   * Memory
     * [me_MemorySegment][me_MemorySegment] (2024-05/2024-10)
     * [me_ManagedMemory][me_ManagedMemory] (2024-06/2024-10)
-    * [me_SegmentProcessor][me_SegmentProcessor] (2024-12)
     * [me_Heap][me_Heap] (2024-10)
     * [me_WorkMemory][me_WorkMemory] (2024-12)
     * [me_ProgramMemory][me_ProgramMemory] (2024-12)
@@ -51,10 +50,10 @@ via `arduino-cli lib install`.
     * [me_RgbStripe][me_RgbStripe] (2024-09) Class for driver
     * [me_RgbStripeConsole][me_RgbStripeConsole] (2024-09) Text interface for class
 
-* Obsolete
-  * Bootstrap
-    * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
-    * [me_UnoAddresses][me_UnoAddresses] (2024-05, 2024-12)
+* Graveyard
+  * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
+  * [me_UnoAddresses][me_UnoAddresses] (2024-05, 2024-12)
+  * [me_SegmentProcessor][me_SegmentProcessor] (2024-12)
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
 [me_BaseInterfaces]: https://github.com/martin-eden/Embedded-me_BaseInterfaces
@@ -66,7 +65,6 @@ via `arduino-cli lib install`.
 
 [me_MemorySegment]: https://github.com/martin-eden/Embedded-me_MemorySegment
 [me_ManagedMemory]: https://github.com/martin-eden/Embedded-me_ManagedMemory
-[me_SegmentProcessor]: https://github.com/martin-eden/Embedded-me_SegmentProcessor
 [me_Heap]: https://github.com/martin-eden/Embedded-me_Heap
 [me_WorkMemory]: https://github.com/martin-eden/Embedded-me_WorkMemory
 [me_ProgramMemory]: https://github.com/martin-eden/Embedded-me_ProgramMemory
@@ -98,3 +96,4 @@ via `arduino-cli lib install`.
 
 [me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
 [me_UnoAddresses]: https://github.com/martin-eden/Embedded-me_UnoAddresses
+[me_SegmentProcessor]: https://github.com/martin-eden/Embedded-me_SegmentProcessor
