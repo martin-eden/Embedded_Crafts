@@ -1,11 +1,19 @@
-# What
+## What
 
 My relatively recent Arduino/hardware projects.
 
-* [Rover Willy](https://github.com/martin-eden/Willy)
+* [Rover Willy][Willy]
 
-  Two-wheeled platform. Motors, gyro, Uno, Esplora. UART, WiFi.
+  Two-wheeled platform. DC motors, gyroscope, Uno, Esplora.
+  UART, WiFi, JSON. Communication channel is WiFi.
 
-* [MemoryDumper](https://github.com/martin-eden/Embedded_MemoryDumper)
+  Complete code snapshot included.
 
-  Snippet. Uno, UART.
+* [Dumpie][Dumpie]
+
+  Uno memories dumper.
+
+  Demo. Libraries not included as they are evolving.
+
+[Willy]: https://github.com/martin-eden/Willy
+[Dumpie]: https://github.com/martin-eden/Embedded_MemoriesDumper
