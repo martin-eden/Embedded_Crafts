@@ -8,6 +8,7 @@ via `arduino-cli lib install`.
 * Boring (ground quality of life)
   * Bootstrap
     * [me_BaseTypes][me_BaseTypes] (2024-02/2024-09)
+    * [me_BaseInterfaces][me_BaseInterfaces] (2025-08)
     * [me_Uart][me_Uart] (2024-10/2024-12, 2025-07)
     * [me_Counters][me_Counters] (2024-12/2025-02)
       * [me_RunTime][me_RunTime] (2025-03)
@@ -56,6 +57,7 @@ via `arduino-cli lib install`.
     * [me_UnoAddresses][me_UnoAddresses] (2024-05, 2024-12)
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
+[me_BaseInterfaces]: https://github.com/martin-eden/Embedded-me_BaseInterfaces
 [me_Uart]: https://github.com/martin-eden/Embedded-me_Uart
 [me_Counters]: https://github.com/martin-eden/Embedded-me_Counters
 [me_RunTime]: https://github.com/martin-eden/Embedded-me_RunTime
