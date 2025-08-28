@@ -24,7 +24,6 @@ via `arduino-cli lib install`.
   * Output
     * [me_Console][me_Console] (2024-10)
     * [me_StreamTools][me_StreamTools] (2025-08)
-    * [me_MemsegStreams][me_MemsegStreams] (2025-08)
   * Base types parsing/compiling
     * [me_SerialTokenizer][me_SerialTokenizer] (2024-05/2024-06)
     * [me_ParseInteger][me_ParseInteger] (2024-05/2024-10)
@@ -54,6 +53,7 @@ via `arduino-cli lib install`.
   * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
   * [me_UnoAddresses][me_UnoAddresses] (2024-05, 2024-12)
   * [me_SegmentProcessor][me_SegmentProcessor] (2024-12)
+  * [me_MemsegStreams][me_MemsegStreams] (2025-08)
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
 [me_BaseInterfaces]: https://github.com/martin-eden/Embedded-me_BaseInterfaces
@@ -72,7 +72,6 @@ via `arduino-cli lib install`.
 
 [me_Console]: https://github.com/martin-eden/Embedded-me_Console
 [me_StreamTools]: https://github.com/martin-eden/Embedded-me_StreamTools
-[me_MemsegStreams]: https://github.com/martin-eden/Embedded-me_MemsegStreams
 
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
@@ -97,3 +96,4 @@ via `arduino-cli lib install`.
 [me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
 [me_UnoAddresses]: https://github.com/martin-eden/Embedded-me_UnoAddresses
 [me_SegmentProcessor]: https://github.com/martin-eden/Embedded-me_SegmentProcessor
+[me_MemsegStreams]: https://github.com/martin-eden/Embedded-me_MemsegStreams
