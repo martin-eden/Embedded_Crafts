@@ -21,9 +21,10 @@ via `arduino-cli lib install`.
     * [me_WorkMemory][me_WorkMemory] (2024-12)
     * [me_ProgramMemory][me_ProgramMemory] (2024-12)
     * [me_Eeprom][me_Eeprom] (2025-07)
-  * Output
+  * Input/Output
     * [me_Console][me_Console] (2024-10)
     * [me_StreamTools][me_StreamTools] (2025-08)
+    * [me_StreamsCollection][me_StreamsCollection] (2025-08)
   * Base types parsing/compiling
     * [me_SerialTokenizer][me_SerialTokenizer] (2024-05/2024-06)
     * [me_ParseInteger][me_ParseInteger] (2024-05/2024-10)
@@ -72,6 +73,7 @@ via `arduino-cli lib install`.
 
 [me_Console]: https://github.com/martin-eden/Embedded-me_Console
 [me_StreamTools]: https://github.com/martin-eden/Embedded-me_StreamTools
+[me_StreamsCollection]: https://github.com/martin-eden/Embedded-me_StreamsCollection
 
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
