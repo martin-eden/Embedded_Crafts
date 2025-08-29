@@ -16,7 +16,7 @@ via `arduino-cli lib install`.
     * [me_Delays][me_Delays] (2025-08)
   * Memory
     * [me_MemorySegment][me_MemorySegment] (2024-05/2024-10)
-    * [me_ManagedMemory][me_ManagedMemory] (2024-06/2024-10)
+    * [me_WorkmemTools][me_WorkmemTools] (2024, 2025)
     * [me_Heap][me_Heap] (2024-10)
     * [me_WorkMemory][me_WorkMemory] (2024-12)
     * [me_ProgramMemory][me_ProgramMemory] (2024-12)
@@ -64,7 +64,7 @@ via `arduino-cli lib install`.
 [me_Delays]: https://github.com/martin-eden/Embedded-me_Delays
 
 [me_MemorySegment]: https://github.com/martin-eden/Embedded-me_MemorySegment
-[me_ManagedMemory]: https://github.com/martin-eden/Embedded-me_ManagedMemory
+[me_WorkmemTools]: https://github.com/martin-eden/Embedded-me_WorkmemTools
 [me_Heap]: https://github.com/martin-eden/Embedded-me_Heap
 [me_WorkMemory]: https://github.com/martin-eden/Embedded-me_WorkMemory
 [me_ProgramMemory]: https://github.com/martin-eden/Embedded-me_ProgramMemory
