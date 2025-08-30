@@ -6,6 +6,7 @@ Each one has to be in separate repo to make installation possible
 via `arduino-cli lib install`.
 
 * ATmega328/P
+  ![Dependency graph][Dependency graph]
   * Level 1
     * [me_BaseTypes][me_BaseTypes] (2024-02/2024-09)
   * Level 2
@@ -53,6 +54,8 @@ via `arduino-cli lib install`.
   * [me_SegmentProcessor][me_SegmentProcessor] (2024-12)
   * [me_MemsegStreams][me_MemsegStreams] (2025-08)
   * [me_Asciiz][me_Asciiz] (2024-12)
+
+[Dependency graph]: Dependency%20graph%20(2025-08-30).svg
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
 
