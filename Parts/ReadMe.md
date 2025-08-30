@@ -32,7 +32,6 @@ via `arduino-cli lib install`.
     * [me_CodecDecInt][me_CodecDecInt] (2024-10, 2024-12)
     * [me_Bits][me_Bits] (2024-10)
     * [me_Bits_Workmem][me_Bits_Workmem] (2025-08)
-    * [me_Asciiz][me_Asciiz] (2024-12)
   * Units conversion
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024-05)
     * [me_Timestamp][me_Timestamp] (2025-03)
@@ -55,6 +54,7 @@ via `arduino-cli lib install`.
   * [me_UnoAddresses][me_UnoAddresses] (2024-05, 2024-12)
   * [me_SegmentProcessor][me_SegmentProcessor] (2024-12)
   * [me_MemsegStreams][me_MemsegStreams] (2025-08)
+  * [me_Asciiz][me_Asciiz] (2024-12)
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
 [me_BaseInterfaces]: https://github.com/martin-eden/Embedded-me_BaseInterfaces
@@ -81,7 +81,6 @@ via `arduino-cli lib install`.
 [me_CodecDecInt]: https://github.com/martin-eden/Embedded-me_CodecDecInt
 [me_Bits]: https://github.com/martin-eden/Embedded-me_Bits
 [me_Bits_Workmem]: https://github.com/martin-eden/Embedded-me_Bits_Workmem
-[me_Asciiz]: https://github.com/martin-eden/Embedded-me_Asciiz
 
 [me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
 [me_Timestamp]: https://github.com/martin-eden/Embedded-me_Timestamp
@@ -99,3 +98,4 @@ via `arduino-cli lib install`.
 [me_UnoAddresses]: https://github.com/martin-eden/Embedded-me_UnoAddresses
 [me_SegmentProcessor]: https://github.com/martin-eden/Embedded-me_SegmentProcessor
 [me_MemsegStreams]: https://github.com/martin-eden/Embedded-me_MemsegStreams
+[me_Asciiz]: https://github.com/martin-eden/Embedded-me_Asciiz
