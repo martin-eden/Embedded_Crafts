@@ -25,6 +25,7 @@ via `arduino-cli lib install`.
     * [me_RunTime][me_RunTime] (2025-03)
     * [me_StoredCall][me_StoredCall] (2024-06)
     * [me_StreamsCollection][me_StreamsCollection] (2025-08)
+    * [me_StreamTokenizer][me_StreamTokenizer] (2025-09)
     * [me_StreamTools][me_StreamTools] (2025-08)
   * Level 4
     * [me_CodecDecInt][me_CodecDecInt] (2024-10, 2024-12)
@@ -73,6 +74,7 @@ via `arduino-cli lib install`.
 [me_Bits_Workmem]: https://github.com/martin-eden/Embedded-me_Bits_Workmem
 [me_RunTime]: https://github.com/martin-eden/Embedded-me_RunTime
 [me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
+[me_StreamTokenizer]: https://github.com/martin-eden/Embedded-me_StreamTokenizer
 [me_StreamsCollection]: https://github.com/martin-eden/Embedded-me_StreamsCollection
 [me_StreamTools]: https://github.com/martin-eden/Embedded-me_StreamTools
 
