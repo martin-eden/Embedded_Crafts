@@ -55,7 +55,7 @@ via `arduino-cli lib install`.
   * [me_MemsegStreams][me_MemsegStreams] (2025-08)
   * [me_Asciiz][me_Asciiz] (2024-12)
 
-[Dependency graph]: Dependency%20graph%20(2025-08-30).svg
+[Dependency graph]: My%20AVR%20framework.svg
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
 
@@ -88,8 +88,8 @@ via `arduino-cli lib install`.
 [me_ReadInteger]: https://github.com/martin-eden/Embedded-me_ReadInteger
 [me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
 
-[me_Menu]: https://github.com/martin-eden/Embedded-me_Menu
 [me_Heap]: https://github.com/martin-eden/Embedded-me_Heap
+[me_Menu]: https://github.com/martin-eden/Embedded-me_Menu
 [me_RgbStripe]: https://github.com/martin-eden/Embedded-me_RgbStripe
 
 [me_RgbStripeConsole]: https://github.com/martin-eden/Embedded-me_RgbStripeConsole
