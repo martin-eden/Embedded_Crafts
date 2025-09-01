@@ -55,7 +55,7 @@ via `arduino-cli lib install`.
   * [me_MemsegStreams][me_MemsegStreams] (2025-08)
   * [me_Asciiz][me_Asciiz] (2024-12)
 
-[Dependency graph]: My%20AVR%20framework.svg
+[Dependency graph]: https://raw.githubusercontent.com/martin-eden/Embedded_Crafts/master/Parts/My%20AVR%20framework.svg
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
 
