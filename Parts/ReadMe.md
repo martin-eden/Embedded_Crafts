@@ -32,7 +32,6 @@ via `arduino-cli lib install`.
     * [me_Delays][me_Delays] (2025-08)
     * [me_ParseInteger][me_ParseInteger] (2024-05/2024-10)
     * [me_Pins][me_Pins] (2025-08)
-    * [me_SerialTokenizer][me_SerialTokenizer] (2024-05/2024-06)
     * [me_WorkmemTools][me_WorkmemTools] (2024, 2025)
   * Level 5
     * [me_Console][me_Console] (2024-10)
@@ -55,6 +54,7 @@ via `arduino-cli lib install`.
   * [me_SegmentProcessor][me_SegmentProcessor] (2024-12)
   * [me_MemsegStreams][me_MemsegStreams] (2025-08)
   * [me_Asciiz][me_Asciiz] (2024-12)
+  * [me_SerialTokenizer][me_SerialTokenizer] (2024-05/2024-06)
 
 [Dependency graph]: https://raw.githubusercontent.com/martin-eden/Embedded_Crafts/master/Parts/My%20AVR%20framework.svg
 
@@ -82,7 +82,6 @@ via `arduino-cli lib install`.
 [me_Delays]: https://github.com/martin-eden/Embedded-me_Delays
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
 [me_Pins]: https://github.com/martin-eden/Embedded-me_Pins
-[me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_WorkmemTools]: https://github.com/martin-eden/Embedded-me_WorkmemTools
 
 [me_Console]: https://github.com/martin-eden/Embedded-me_Console
@@ -103,3 +102,4 @@ via `arduino-cli lib install`.
 [me_SegmentProcessor]: https://github.com/martin-eden/Embedded-me_SegmentProcessor
 [me_MemsegStreams]: https://github.com/martin-eden/Embedded-me_MemsegStreams
 [me_Asciiz]: https://github.com/martin-eden/Embedded-me_Asciiz
+[me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
