@@ -32,7 +32,6 @@ via `arduino-cli lib install`.
     * [me_StreamsCollection][me_StreamsCollection] (2025-08)
     * [me_Ws2812b][me_Ws2812b] (2024-03/2024-05) RGB stripe WS2812B: Driver
   * Level 6
-    * [me_ParseInteger][me_ParseInteger] (2024-05/2024-10)
     * [me_StreamTokenizer][me_StreamTokenizer] (2025-09)
     * [me_WorkmemTools][me_WorkmemTools] (2024, 2025)
     * [me_WriteInteger][me_WriteInteger] (2024-10, 2024-12)
@@ -51,12 +50,13 @@ via `arduino-cli lib install`.
   * [me_WifiShip][me_WifiShip] (2023-12/2024-02) WiFi: scan and connect
 
 * Graveyard
-  * [me_InstallStandardStreams][me_InstallStandardStreams] (2023-11/2024-05)
-  * [me_UnoAddresses][me_UnoAddresses] (2024-05, 2024-12)
-  * [me_SegmentProcessor][me_SegmentProcessor] (2024-12)
-  * [me_MemsegStreams][me_MemsegStreams] (2025-08)
-  * [me_Asciiz][me_Asciiz] (2024-12)
-  * [me_SerialTokenizer][me_SerialTokenizer] (2024-05/2024-06)
+  * [me_InstallStandardStreams][me_InstallStandardStreams] (2023)
+  * [me_UnoAddresses][me_UnoAddresses] (2024)
+  * [me_SegmentProcessor][me_SegmentProcessor] (2024)
+  * [me_MemsegStreams][me_MemsegStreams] (2025)
+  * [me_Asciiz][me_Asciiz] (2024)
+  * [me_SerialTokenizer][me_SerialTokenizer] (2024)
+  * [me_ParseInteger][me_ParseInteger] (2024)
 
 [Dependency graph]: https://raw.githubusercontent.com/martin-eden/Embedded_Crafts/master/Parts/My%20AVR%20framework.svg
 
@@ -84,7 +84,6 @@ via `arduino-cli lib install`.
 [me_StreamsCollection]: https://github.com/martin-eden/Embedded-me_StreamsCollection
 [me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
 
-[me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
 [me_StreamTokenizer]: https://github.com/martin-eden/Embedded-me_StreamTokenizer
 [me_WorkmemTools]: https://github.com/martin-eden/Embedded-me_WorkmemTools
 [me_WriteInteger]: https://github.com/martin-eden/Embedded-me_WriteInteger
@@ -107,3 +106,4 @@ via `arduino-cli lib install`.
 [me_MemsegStreams]: https://github.com/martin-eden/Embedded-me_MemsegStreams
 [me_Asciiz]: https://github.com/martin-eden/Embedded-me_Asciiz
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
+[me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
