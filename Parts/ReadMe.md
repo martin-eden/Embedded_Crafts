@@ -8,46 +8,46 @@ via `arduino-cli lib install`.
 * ATmega328/P
   ![Dependency graph][Dependency graph]
   * Level 1
-    * [me_BaseTypes][me_BaseTypes] (2024-02/2024-09)
+    * [me_BaseTypes][me_BaseTypes] (2024)
   * Level 2
-    * [me_AddrsegTools][me_AddrsegTools] (2024, 2025)
-    * [me_Bits][me_Bits] (2024-10)
-    * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024-05)
-    * [me_Counters][me_Counters] (2024-12/2025-02)
-    * [me_Timestamp][me_Timestamp] (2025-03)
-    * [me_WorkMemory][me_WorkMemory] (2024-12)
+    * [me_AddrsegTools][me_AddrsegTools] (2024)
+    * [me_Bits][me_Bits] (2024)
+    * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024)
+    * [me_Counters][me_Counters] (2024)
+    * [me_Timestamp][me_Timestamp] (2025)
+    * [me_WorkMemory][me_WorkMemory] (2024)
   * Level 3
-    * [me_BaseInterfaces][me_BaseInterfaces] (2025-08)
-    * [me_Bits_Workmem][me_Bits_Workmem] (2025-08)
-    * [me_RunTime][me_RunTime] (2025-03)
+    * [me_BaseInterfaces][me_BaseInterfaces] (2025)
+    * [me_Bits_Workmem][me_Bits_Workmem] (2025)
+    * [me_RunTime][me_RunTime] (2025)
   * Level 4
-    * [me_Delays][me_Delays] (2025-08)
-    * [me_Eeprom][me_Eeprom] (2025-07)
-    * [me_Pins][me_Pins] (2025-08)
-    * [me_ProgramMemory][me_ProgramMemory] (2024-12)
-    * [me_StoredCall][me_StoredCall] (2024-06)
-    * [me_StreamTools][me_StreamTools] (2025-08)
-    * [me_Uart][me_Uart] (2024-10/2024-12, 2025-07)
-    * [me_WriteInteger][me_WriteInteger] (2024-10, 2024-12)
+    * [me_Delays][me_Delays] (2025)
+    * [me_Eeprom][me_Eeprom] (2025)
+    * [me_Pins][me_Pins] (2025)
+    * [me_ProgramMemory][me_ProgramMemory] (2024)
+    * [me_StoredCall][me_StoredCall] (2024)
+    * [me_StreamTools][me_StreamTools] (2025)
+    * [me_Uart][me_Uart] (2024)
+    * [me_WriteInteger][me_WriteInteger] (2024)
   * Level 5
-    * [me_StreamsCollection][me_StreamsCollection] (2025-08)
-    * [me_Ws2812b][me_Ws2812b] (2024-03/2024-05) RGB stripe WS2812B: Driver
+    * [me_StreamsCollection][me_StreamsCollection] (2025)
+    * [me_Ws2812b][me_Ws2812b] (2024) RGB stripe WS2812B: Driver
   * Level 6
-    * [me_StreamTokenizer][me_StreamTokenizer] (2025-09)
-    * [me_WorkmemTools][me_WorkmemTools] (2024, 2025)
+    * [me_StreamTokenizer][me_StreamTokenizer] (2025)
+    * [me_WorkmemTools][me_WorkmemTools] (2024)
   * Level 7
-    * [me_List][me_List] (2024-05/2024-06)
-    * [me_ReadInteger][me_ReadInteger] (2024-10)
-    * [me_RgbStripe][me_RgbStripe] (2024-09) RGB stripe WS2812B: Class for driver
+    * [me_List][me_List] (2024)
+    * [me_ReadInteger][me_ReadInteger] (2024)
+    * [me_RgbStripe][me_RgbStripe] (2024) RGB stripe WS2812B: Class for driver
   * Level 8
-    * [me_Console][me_Console] (2024-10)
+    * [me_Console][me_Console] (2024)
   * Level 9
-    * [me_Heap][me_Heap] (2024-10)
-    * [me_Menu][me_Menu] (2024-05/2024-06) Communication protocol framework
-    * [me_RgbStripeConsole][me_RgbStripeConsole] (2024-09) RGB stripe WS2812B: Text interface for class
+    * [me_Heap][me_Heap] (2024)
+    * [me_Menu][me_Menu] (2024) Communication protocol framework
+    * [me_RgbStripeConsole][me_RgbStripeConsole] (2024) RGB stripe WS2812B: Text interface for class
 
 * ESP8266
-  * [me_WifiShip][me_WifiShip] (2023-12/2024-02) WiFi: scan and connect
+  * [me_WifiShip][me_WifiShip] (2023) WiFi: scan and connect
 
 * Graveyard
   * [me_InstallStandardStreams][me_InstallStandardStreams] (2023)
