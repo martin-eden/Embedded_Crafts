@@ -28,13 +28,13 @@ via `arduino-cli lib install`.
     * [me_StoredCall][me_StoredCall] (2024-06)
     * [me_StreamTools][me_StreamTools] (2025-08)
     * [me_Uart][me_Uart] (2024-10/2024-12, 2025-07)
+    * [me_WriteInteger][me_WriteInteger] (2024-10, 2024-12)
   * Level 5
     * [me_StreamsCollection][me_StreamsCollection] (2025-08)
     * [me_Ws2812b][me_Ws2812b] (2024-03/2024-05) RGB stripe WS2812B: Driver
   * Level 6
     * [me_StreamTokenizer][me_StreamTokenizer] (2025-09)
     * [me_WorkmemTools][me_WorkmemTools] (2024, 2025)
-    * [me_WriteInteger][me_WriteInteger] (2024-10, 2024-12)
   * Level 7
     * [me_List][me_List] (2024-05/2024-06)
     * [me_ReadInteger][me_ReadInteger] (2024-10)
