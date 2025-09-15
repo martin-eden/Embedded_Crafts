@@ -16,10 +16,10 @@
 
 * [Projects](Ships)
 
-  Projects are frozen in their time. Code is mostly for reading.
+  Some projects are frozen in their time. Code is mostly for reading.
+  And for proof of feat.
 
-  Still, code should be compilable when you collect all required libraries.
-  If not, open issue.
+  Code for others depends on current framework. It should be compilable.
 
 * Graveyard
 
