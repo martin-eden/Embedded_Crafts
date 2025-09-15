@@ -102,6 +102,7 @@ via `arduino-cli lib install`.
 
 [me_DebugPrints]: https://github.com/martin-eden/Embedded-me_DebugPrints
 [me_DigitalSignalRecorder]: https://github.com/martin-eden/Embedded-DigitalSignalRecorder
+[me_FrequencyGenerator]: https://github.com/martin-eden/Embedded-me_FrequencyGenerator
 
 [me_InstallStandardStreams]: https://github.com/martin-eden/Embedded-me_InstallStandardStreams
 [me_UnoAddresses]: https://github.com/martin-eden/Embedded-me_UnoAddresses
