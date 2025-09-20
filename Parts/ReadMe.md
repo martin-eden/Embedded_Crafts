@@ -19,12 +19,12 @@ via `arduino-cli lib install`.
     * [me_Bits_Workmem][me_Bits_Workmem] (2025)
   * Level 4
     * [me_Counters][me_Counters] (2024)
+    * [me_Duration][me_Duration] (2025)
     * [me_Eeprom][me_Eeprom] (2025)
     * [me_Pins][me_Pins] (2025)
     * [me_ProgramMemory][me_ProgramMemory] (2024)
     * [me_StoredCall][me_StoredCall] (2024)
     * [me_StreamTools][me_StreamTools] (2025)
-    * [me_Timestamp][me_Timestamp] (2025)
     * [me_Uart][me_Uart] (2024)
     * [me_WriteInteger][me_WriteInteger] (2024)
   * Level 5
@@ -75,12 +75,12 @@ via `arduino-cli lib install`.
 [me_Bits_Workmem]: https://github.com/martin-eden/Embedded-me_Bits_Workmem
 
 [me_Counters]: https://github.com/martin-eden/Embedded-me_Counters
+[me_Duration]: https://github.com/martin-eden/Embedded-me_Duration
 [me_Eeprom]: https://github.com/martin-eden/Embedded-me_Eeprom
 [me_Pins]: https://github.com/martin-eden/Embedded-me_Pins
 [me_ProgramMemory]: https://github.com/martin-eden/Embedded-me_ProgramMemory
 [me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
 [me_StreamTools]: https://github.com/martin-eden/Embedded-me_StreamTools
-[me_Timestamp]: https://github.com/martin-eden/Embedded-me_Timestamp
 [me_Uart]: https://github.com/martin-eden/Embedded-me_Uart
 [me_WriteInteger]: https://github.com/martin-eden/Embedded-me_WriteInteger
 
