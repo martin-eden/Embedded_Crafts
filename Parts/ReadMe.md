@@ -21,6 +21,7 @@ via `arduino-cli lib install`.
     * [me_Counters][me_Counters] (2024)
     * [me_Duration][me_Duration] (2025)
     * [me_Eeprom][me_Eeprom] (2025)
+    * [me_Interrupts][me_Interrupts] (2025)
     * [me_Pins][me_Pins] (2025)
     * [me_ProgramMemory][me_ProgramMemory] (2024)
     * [me_StoredCall][me_StoredCall] (2024)
@@ -77,6 +78,7 @@ via `arduino-cli lib install`.
 [me_Counters]: https://github.com/martin-eden/Embedded-me_Counters
 [me_Duration]: https://github.com/martin-eden/Embedded-me_Duration
 [me_Eeprom]: https://github.com/martin-eden/Embedded-me_Eeprom
+[me_Interrupts]: https://github.com/martin-eden/Embedded-me_Interrupts
 [me_Pins]: https://github.com/martin-eden/Embedded-me_Pins
 [me_ProgramMemory]: https://github.com/martin-eden/Embedded-me_ProgramMemory
 [me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
@@ -115,5 +117,3 @@ via `arduino-cli lib install`.
 [me_Asciiz]: https://github.com/martin-eden/Embedded-me_Asciiz
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
-
-[me_Interrupts]: https://github.com/martin-eden/Embedded-me_Interrupts
