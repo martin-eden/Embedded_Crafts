@@ -117,3 +117,5 @@ via `arduino-cli lib install`.
 [me_Asciiz]: https://github.com/martin-eden/Embedded-me_Asciiz
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
+
+[me_FrequencyCalculator]: https://github.com/martin-eden/Embedded-me_FrequencyCalculator
