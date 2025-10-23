@@ -75,11 +75,11 @@ via `arduino-cli lib install`.
 
 [me_BaseInterfaces]: https://github.com/martin-eden/Embedded-me_BaseInterfaces
 [me_Bits_Workmem]: https://github.com/martin-eden/Embedded-me_Bits_Workmem
+[me_HardwareClockScaling]: https://github.com/martin-eden/Embedded-me_HardwareClockScaling
 
 [me_Counters]: https://github.com/martin-eden/Embedded-me_Counters
 [me_Duration]: https://github.com/martin-eden/Embedded-me_Duration
 [me_Eeprom]: https://github.com/martin-eden/Embedded-me_Eeprom
-[me_HardwareClockScaling]: https://github.com/martin-eden/Embedded-me_HardwareClockScaling
 [me_Interrupts]: https://github.com/martin-eden/Embedded-me_Interrupts
 [me_Pins]: https://github.com/martin-eden/Embedded-me_Pins
 [me_ProgramMemory]: https://github.com/martin-eden/Embedded-me_ProgramMemory
