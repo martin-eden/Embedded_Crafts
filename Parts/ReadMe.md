@@ -28,6 +28,7 @@ via `arduino-cli lib install`.
     * [me_StoredCall][me_StoredCall] (2024)
     * [me_StreamTools][me_StreamTools] (2025)
     * [me_Uart][me_Uart] (2024)
+    * [me_WriteInteger][me_WriteInteger] (2024)
   * Level 5
     * [me_Delays][me_Delays] (2025)
     * [me_FrequencyGenerator][me_FrequencyGenerator] (2025)
@@ -43,12 +44,11 @@ via `arduino-cli lib install`.
     * [me_BooleansCodec][me_BooleansCodec] (2025)
     * [me_List][me_List] (2024)
     * [me_RgbStripe][me_RgbStripe] (2024) RGB stripe WS2812B: Class for driver
-    * [me_WriteInteger][me_WriteInteger] (2024)
   * Level 8
     * [me_Console][me_Console] (2024)
-    * [me_DigitalSignalRecorder][me_DigitalSignalRecorder]
   * Level 9
     * [me_DebugPrints][me_DebugPrints] (2025)
+    * [me_DigitalSignalRecorder][me_DigitalSignalRecorder]
     * [me_Heap][me_Heap] (2024)
     * [me_Menu][me_Menu] (2024) Communication protocol framework
     * [me_RgbStripeConsole][me_RgbStripeConsole] (2024) RGB stripe WS2812B: Text interface for class
@@ -87,6 +87,7 @@ via `arduino-cli lib install`.
 [me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
 [me_StreamTools]: https://github.com/martin-eden/Embedded-me_StreamTools
 [me_Uart]: https://github.com/martin-eden/Embedded-me_Uart
+[me_WriteInteger]: https://github.com/martin-eden/Embedded-me_WriteInteger
 
 [me_Delays]: https://github.com/martin-eden/Embedded-me_Delays
 [me_FrequencyGenerator]: https://github.com/martin-eden/Embedded-me_FrequencyGenerator
@@ -102,12 +103,11 @@ via `arduino-cli lib install`.
 [me_BooleansCodec]: https://github.com/martin-eden/Embedded-me_BooleansCodec
 [me_List]: https://github.com/martin-eden/Embedded-me_List
 [me_RgbStripe]: https://github.com/martin-eden/Embedded-me_RgbStripe
-[me_WriteInteger]: https://github.com/martin-eden/Embedded-me_WriteInteger
 
 [me_Console]: https://github.com/martin-eden/Embedded-me_Console
-[me_DigitalSignalRecorder]: https://github.com/martin-eden/Embedded-me_DigitalSignalRecorder
 
 [me_DebugPrints]: https://github.com/martin-eden/Embedded-me_DebugPrints
+[me_DigitalSignalRecorder]: https://github.com/martin-eden/Embedded-me_DigitalSignalRecorder
 [me_Heap]: https://github.com/martin-eden/Embedded-me_Heap
 [me_Menu]: https://github.com/martin-eden/Embedded-me_Menu
 [me_RgbStripeConsole]: https://github.com/martin-eden/Embedded-me_RgbStripeConsole
@@ -121,4 +121,3 @@ via `arduino-cli lib install`.
 [me_Asciiz]: https://github.com/martin-eden/Embedded-me_Asciiz
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
-
