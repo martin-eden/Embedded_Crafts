@@ -45,8 +45,10 @@ via `arduino-cli lib install`.
     * [me_List][me_List] (2024)
     * [me_RgbStripe][me_RgbStripe] (2024) RGB stripe WS2812B: Class for driver
   * Level 8
-    * [me_Console][me_Console] (2024)
+    * [me_BaseTypesIo][me_BaseTypesIo] (2025)
   * Level 9
+    * [me_Console][me_Console] (2024)
+  * Level 10
     * [me_DebugPrints][me_DebugPrints] (2025)
     * [me_DigitalSignalRecorder][me_DigitalSignalRecorder]
     * [me_Heap][me_Heap] (2024)
@@ -103,6 +105,8 @@ via `arduino-cli lib install`.
 [me_BooleansCodec]: https://github.com/martin-eden/Embedded-me_BooleansCodec
 [me_List]: https://github.com/martin-eden/Embedded-me_List
 [me_RgbStripe]: https://github.com/martin-eden/Embedded-me_RgbStripe
+
+[me_BaseTypesIo]: https://github.com/martin-eden/Embedded-me_BaseTypesIo
 
 [me_Console]: https://github.com/martin-eden/Embedded-me_Console
 
