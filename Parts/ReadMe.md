@@ -30,22 +30,22 @@ via `arduino-cli lib install`.
     * [me_Uart][me_Uart] (2024)
     * [me_WriteInteger][me_WriteInteger] (2024)
   * Level 5
-    * [me_Delays][me_Delays] (2025)
     * [me_FrequencyGenerator][me_FrequencyGenerator] (2025)
     * [me_RunTime][me_RunTime] (2025)
     * [me_StreamsCollection][me_StreamsCollection] (2025)
     * [me_StreamTokenizer][me_StreamTokenizer] (2025)
   * Level 6
-    * [me_ModulatedSignalPlayer][me_ModulatedSignalPlayer] (2025)
+    * [me_Delays][me_Delays] (2025)
     * [me_ReadInteger][me_ReadInteger] (2024)
     * [me_WorkmemTools][me_WorkmemTools] (2024)
-    * [me_Ws2812b][me_Ws2812b] (2024) RGB stripe WS2812B: Driver
   * Level 7
     * [me_BooleansCodec][me_BooleansCodec] (2025)
     * [me_List][me_List] (2024)
-    * [me_RgbStripe][me_RgbStripe] (2024) RGB stripe WS2812B: Class for driver
+    * [me_ModulatedSignalPlayer][me_ModulatedSignalPlayer] (2025)
+    * [me_Ws2812b][me_Ws2812b] (2024) RGB stripe WS2812B: Driver
   * Level 8
     * [me_BaseTypesIo][me_BaseTypesIo] (2025)
+    * [me_RgbStripe][me_RgbStripe] (2024) RGB stripe WS2812B: Class for driver
   * Level 9
     * [me_Console][me_Console] (2024)
   * Level 10
@@ -91,22 +91,22 @@ via `arduino-cli lib install`.
 [me_Uart]: https://github.com/martin-eden/Embedded-me_Uart
 [me_WriteInteger]: https://github.com/martin-eden/Embedded-me_WriteInteger
 
-[me_Delays]: https://github.com/martin-eden/Embedded-me_Delays
 [me_FrequencyGenerator]: https://github.com/martin-eden/Embedded-me_FrequencyGenerator
 [me_RunTime]: https://github.com/martin-eden/Embedded-me_RunTime
 [me_StreamsCollection]: https://github.com/martin-eden/Embedded-me_StreamsCollection
 [me_StreamTokenizer]: https://github.com/martin-eden/Embedded-me_StreamTokenizer
 
-[me_ModulatedSignalPlayer]: https://github.com/martin-eden/Embedded-me_ModulatedSignalPlayer
+[me_Delays]: https://github.com/martin-eden/Embedded-me_Delays
 [me_ReadInteger]: https://github.com/martin-eden/Embedded-me_ReadInteger
 [me_WorkmemTools]: https://github.com/martin-eden/Embedded-me_WorkmemTools
-[me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
 
 [me_BooleansCodec]: https://github.com/martin-eden/Embedded-me_BooleansCodec
 [me_List]: https://github.com/martin-eden/Embedded-me_List
-[me_RgbStripe]: https://github.com/martin-eden/Embedded-me_RgbStripe
+[me_ModulatedSignalPlayer]: https://github.com/martin-eden/Embedded-me_ModulatedSignalPlayer
+[me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
 
 [me_BaseTypesIo]: https://github.com/martin-eden/Embedded-me_BaseTypesIo
+[me_RgbStripe]: https://github.com/martin-eden/Embedded-me_RgbStripe
 
 [me_Console]: https://github.com/martin-eden/Embedded-me_Console
 
