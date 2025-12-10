@@ -21,6 +21,7 @@ via `arduino-cli lib install`.
     * [me_HardwareClockScaling][me_HardwareClockScaling] (2025)
   * Level 4
     * [me_Counters][me_Counters] (2024)
+    * [me_Delays][me_Delays] (2025)
     * [me_Eeprom][me_Eeprom] (2025)
     * [me_Interrupts][me_Interrupts] (2025)
     * [me_Pins][me_Pins] (2025)
@@ -35,18 +36,17 @@ via `arduino-cli lib install`.
     * [me_RunTime][me_RunTime] (2025)
     * [me_StreamsCollection][me_StreamsCollection] (2025)
     * [me_StreamTokenizer][me_StreamTokenizer] (2025)
+    * [me_Ws2812b][me_Ws2812b] (2024) RGB stripe WS2812B: Driver
   * Level 6
-    * [me_Delays][me_Delays] (2025)
+    * [me_ModulatedSignalPlayer][me_ModulatedSignalPlayer] (2025)
     * [me_ReadInteger][me_ReadInteger] (2024)
+    * [me_RgbStripe][me_RgbStripe] (2024) RGB stripe WS2812B: Class for driver
     * [me_WorkmemTools][me_WorkmemTools] (2024)
   * Level 7
     * [me_BooleansCodec][me_BooleansCodec] (2025)
     * [me_List][me_List] (2024)
-    * [me_ModulatedSignalPlayer][me_ModulatedSignalPlayer] (2025)
-    * [me_Ws2812b][me_Ws2812b] (2024) RGB stripe WS2812B: Driver
   * Level 8
     * [me_BaseTypesIo][me_BaseTypesIo] (2025)
-    * [me_RgbStripe][me_RgbStripe] (2024) RGB stripe WS2812B: Class for driver
   * Level 9
     * [me_Console][me_Console] (2024)
   * Level 10
