@@ -13,11 +13,11 @@ via `arduino-cli lib install`.
     * [me_AddrsegTools][me_AddrsegTools] (2024)
     * [me_Bits][me_Bits] (2024)
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024)
+    * [me_Duration][me_Duration] (2025)
     * [me_WorkMemory][me_WorkMemory] (2024)
   * Level 3
     * [me_BaseInterfaces][me_BaseInterfaces] (2025)
     * [me_Bits_Workmem][me_Bits_Workmem] (2025)
-    * [me_Duration][me_Duration] (2025)
     * [me_HardwareClockScaling][me_HardwareClockScaling] (2025)
   * Level 4
     * [me_Counters][me_Counters] (2024)
@@ -28,7 +28,6 @@ via `arduino-cli lib install`.
     * [me_ProgramMemory][me_ProgramMemory] (2024)
     * [me_StoredCall][me_StoredCall] (2024)
     * [me_StreamTools][me_StreamTools] (2025)
-    * [me_TimerTools][me_TimerTools] (2025)
     * [me_Uart][me_Uart] (2024)
     * [me_WriteInteger][me_WriteInteger] (2024)
   * Level 5
@@ -75,21 +74,21 @@ via `arduino-cli lib install`.
 [me_AddrsegTools]: https://github.com/martin-eden/Embedded-me_AddrsegTools
 [me_Bits]: https://github.com/martin-eden/Embedded-me_Bits
 [me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
+[me_Duration]: https://github.com/martin-eden/Embedded-me_Duration
 [me_WorkMemory]: https://github.com/martin-eden/Embedded-me_WorkMemory
 
 [me_BaseInterfaces]: https://github.com/martin-eden/Embedded-me_BaseInterfaces
 [me_Bits_Workmem]: https://github.com/martin-eden/Embedded-me_Bits_Workmem
-[me_Duration]: https://github.com/martin-eden/Embedded-me_Duration
 [me_HardwareClockScaling]: https://github.com/martin-eden/Embedded-me_HardwareClockScaling
 
 [me_Counters]: https://github.com/martin-eden/Embedded-me_Counters
+[me_Delays]: https://github.com/martin-eden/Embedded-me_Delays
 [me_Eeprom]: https://github.com/martin-eden/Embedded-me_Eeprom
 [me_Interrupts]: https://github.com/martin-eden/Embedded-me_Interrupts
 [me_Pins]: https://github.com/martin-eden/Embedded-me_Pins
 [me_ProgramMemory]: https://github.com/martin-eden/Embedded-me_ProgramMemory
 [me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
 [me_StreamTools]: https://github.com/martin-eden/Embedded-me_StreamTools
-[me_TimerTools]: https://github.com/martin-eden/Embedded-me_TimerTools
 [me_Uart]: https://github.com/martin-eden/Embedded-me_Uart
 [me_WriteInteger]: https://github.com/martin-eden/Embedded-me_WriteInteger
 
@@ -97,18 +96,17 @@ via `arduino-cli lib install`.
 [me_RunTime]: https://github.com/martin-eden/Embedded-me_RunTime
 [me_StreamsCollection]: https://github.com/martin-eden/Embedded-me_StreamsCollection
 [me_StreamTokenizer]: https://github.com/martin-eden/Embedded-me_StreamTokenizer
+[me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
 
-[me_Delays]: https://github.com/martin-eden/Embedded-me_Delays
+[me_ModulatedSignalPlayer]: https://github.com/martin-eden/Embedded-me_ModulatedSignalPlayer
 [me_ReadInteger]: https://github.com/martin-eden/Embedded-me_ReadInteger
+[me_RgbStripe]: https://github.com/martin-eden/Embedded-me_RgbStripe
 [me_WorkmemTools]: https://github.com/martin-eden/Embedded-me_WorkmemTools
 
 [me_BooleansCodec]: https://github.com/martin-eden/Embedded-me_BooleansCodec
 [me_List]: https://github.com/martin-eden/Embedded-me_List
-[me_ModulatedSignalPlayer]: https://github.com/martin-eden/Embedded-me_ModulatedSignalPlayer
-[me_Ws2812b]: https://github.com/martin-eden/Embedded-me_Ws2812b
 
 [me_BaseTypesIo]: https://github.com/martin-eden/Embedded-me_BaseTypesIo
-[me_RgbStripe]: https://github.com/martin-eden/Embedded-me_RgbStripe
 
 [me_Console]: https://github.com/martin-eden/Embedded-me_Console
 
