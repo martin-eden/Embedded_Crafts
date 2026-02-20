@@ -16,7 +16,6 @@ Node names in SVG are clickable links to repositories.
     * [me_BaseTypes][me_BaseTypes] (2024)
   * Level 2
     * [me_AddrsegTools][me_AddrsegTools] (2024)
-    * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024)
     * [me_WorkMemory][me_WorkMemory] (2024)
   * Level 3
     * [me_BaseInterfaces][me_BaseInterfaces] (2025)
@@ -70,13 +69,13 @@ Node names in SVG are clickable links to repositories.
   * [me_Asciiz][me_Asciiz] (2024)
   * [me_SerialTokenizer][me_SerialTokenizer] (2024)
   * [me_ParseInteger][me_ParseInteger] (2024)
+  * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024)
 
 [Dependency graph]: https://raw.githubusercontent.com/martin-eden/Embedded_Crafts/master/Parts/My%20AVR%20framework.svg
 
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
 
 [me_AddrsegTools]: https://github.com/martin-eden/Embedded-me_AddrsegTools
-[me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
 [me_WorkMemory]: https://github.com/martin-eden/Embedded-me_WorkMemory
 
 [me_BaseInterfaces]: https://github.com/martin-eden/Embedded-me_BaseInterfaces
@@ -130,3 +129,4 @@ Node names in SVG are clickable links to repositories.
 [me_Asciiz]: https://github.com/martin-eden/Embedded-me_Asciiz
 [me_SerialTokenizer]: https://github.com/martin-eden/Embedded-me_SerialTokenizer
 [me_ParseInteger]: https://github.com/martin-eden/Embedded-me_ParseInteger
+[me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
