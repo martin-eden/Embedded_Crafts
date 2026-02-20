@@ -16,11 +16,11 @@ Node names in SVG are clickable links to repositories.
     * [me_BaseTypes][me_BaseTypes] (2024)
   * Level 2
     * [me_AddrsegTools][me_AddrsegTools] (2024)
-    * [me_Bits][me_Bits] (2024)
     * [me_ConvertUnits_Angle][me_ConvertUnits_Angle] (2024)
     * [me_WorkMemory][me_WorkMemory] (2024)
   * Level 3
     * [me_BaseInterfaces][me_BaseInterfaces] (2025)
+    * [me_Bits][me_Bits] (2024)
     * [me_HardwareClockScaling][me_HardwareClockScaling] (2025)
   * Level 4
     * [me_Counters][me_Counters] (2024)
@@ -76,11 +76,11 @@ Node names in SVG are clickable links to repositories.
 [me_BaseTypes]: https://github.com/martin-eden/Embedded-me_BaseTypes
 
 [me_AddrsegTools]: https://github.com/martin-eden/Embedded-me_AddrsegTools
-[me_Bits]: https://github.com/martin-eden/Embedded-me_Bits
 [me_ConvertUnits_Angle]: https://github.com/martin-eden/Embedded-me_ConvertUnits_Angle
 [me_WorkMemory]: https://github.com/martin-eden/Embedded-me_WorkMemory
 
 [me_BaseInterfaces]: https://github.com/martin-eden/Embedded-me_BaseInterfaces
+[me_Bits]: https://github.com/martin-eden/Embedded-me_Bits
 [me_HardwareClockScaling]: https://github.com/martin-eden/Embedded-me_HardwareClockScaling
 
 [me_Counters]: https://github.com/martin-eden/Embedded-me_Counters
