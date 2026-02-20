@@ -21,7 +21,6 @@ Node names in SVG are clickable links to repositories.
     * [me_WorkMemory][me_WorkMemory] (2024)
   * Level 3
     * [me_BaseInterfaces][me_BaseInterfaces] (2025)
-    * [me_Bits_Workmem][me_Bits_Workmem] (2025)
     * [me_HardwareClockScaling][me_HardwareClockScaling] (2025)
   * Level 4
     * [me_Counters][me_Counters] (2024)
@@ -82,7 +81,6 @@ Node names in SVG are clickable links to repositories.
 [me_WorkMemory]: https://github.com/martin-eden/Embedded-me_WorkMemory
 
 [me_BaseInterfaces]: https://github.com/martin-eden/Embedded-me_BaseInterfaces
-[me_Bits_Workmem]: https://github.com/martin-eden/Embedded-me_Bits_Workmem
 [me_HardwareClockScaling]: https://github.com/martin-eden/Embedded-me_HardwareClockScaling
 
 [me_Counters]: https://github.com/martin-eden/Embedded-me_Counters
