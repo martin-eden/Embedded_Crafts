@@ -45,6 +45,7 @@ Node names in SVG are clickable links to repositories.
   * Level 7
     * [me_BooleansCodec][me_BooleansCodec] (2025)
     * [me_List][me_List] (2024)
+    * [me_MemoryAllocator][me_MemoryAllocator] (2024)
     * [me_WriteInteger][me_WriteInteger] (2024)
   * Level 8
     * [me_BaseTypesIo][me_BaseTypesIo] (2025)
@@ -54,7 +55,6 @@ Node names in SVG are clickable links to repositories.
   * Level 10
     * [me_DebugPrints][me_DebugPrints] (2025)
     * [me_DigitalSignalRecorder][me_DigitalSignalRecorder]
-    * [me_Heap][me_Heap] (2024)
     * [me_Menu][me_Menu] (2024) Communication protocol framework
     * [me_RgbStripeConsole][me_RgbStripeConsole] (2024) RGB stripe WS2812B: Text interface for class
 
@@ -105,6 +105,7 @@ Node names in SVG are clickable links to repositories.
 
 [me_BooleansCodec]: https://github.com/martin-eden/Embedded-me_BooleansCodec
 [me_List]: https://github.com/martin-eden/Embedded-me_List
+[me_MemoryAllocator]: https://github.com/martin-eden/Embedded-me_MemoryAllocator
 [me_WriteInteger]: https://github.com/martin-eden/Embedded-me_WriteInteger
 
 [me_BaseTypesIo]: https://github.com/martin-eden/Embedded-me_BaseTypesIo
@@ -114,7 +115,6 @@ Node names in SVG are clickable links to repositories.
 
 [me_DebugPrints]: https://github.com/martin-eden/Embedded-me_DebugPrints
 [me_DigitalSignalRecorder]: https://github.com/martin-eden/Embedded-me_DigitalSignalRecorder
-[me_Heap]: https://github.com/martin-eden/Embedded-me_Heap
 [me_Menu]: https://github.com/martin-eden/Embedded-me_Menu
 [me_RgbStripeConsole]: https://github.com/martin-eden/Embedded-me_RgbStripeConsole
 
