@@ -51,12 +51,13 @@ Node names in SVG are clickable links to repositories.
     * [me_BaseTypesIo][me_BaseTypesIo] (2025)
   * Level 9
     * [me_Console][me_Console] (2024)
-    * [me_Duration][me_Duration] (2025)
   * Level 10
-    * [me_DebugPrints][me_DebugPrints] (2025)
-    * [me_DigitalSignalRecorder][me_DigitalSignalRecorder]
+    * [me_Duration][me_Duration] (2025)
     * [me_Menu][me_Menu] (2024) Communication protocol framework
     * [me_RgbStripeConsole][me_RgbStripeConsole] (2024) RGB stripe WS2812B: Text interface for class
+  * Level 11
+    * [me_DebugPrints][me_DebugPrints] (2025)
+    * [me_DigitalSignalRecorder][me_DigitalSignalRecorder]
 
 * ESP8266
   * [me_WifiShip][me_WifiShip] (2023) WiFi: scan and connect
@@ -111,13 +112,13 @@ Node names in SVG are clickable links to repositories.
 [me_BaseTypesIo]: https://github.com/martin-eden/Embedded-me_BaseTypesIo
 
 [me_Console]: https://github.com/martin-eden/Embedded-me_Console
-[me_Duration]: https://github.com/martin-eden/Embedded-me_Duration
 
-[me_DebugPrints]: https://github.com/martin-eden/Embedded-me_DebugPrints
-[me_DigitalSignalRecorder]: https://github.com/martin-eden/Embedded-me_DigitalSignalRecorder
+[me_Duration]: https://github.com/martin-eden/Embedded-me_Duration
 [me_Menu]: https://github.com/martin-eden/Embedded-me_Menu
 [me_RgbStripeConsole]: https://github.com/martin-eden/Embedded-me_RgbStripeConsole
 
+[me_DebugPrints]: https://github.com/martin-eden/Embedded-me_DebugPrints
+[me_DigitalSignalRecorder]: https://github.com/martin-eden/Embedded-me_DigitalSignalRecorder
 
 [me_WifiShip]: https://github.com/martin-eden/Embedded-me_WifiShip
 
