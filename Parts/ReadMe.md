@@ -26,11 +26,13 @@ Node names in SVG are clickable links to repositories.
     * [me_Counters][me_Counters] (2024)
     * [me_Delays][me_Delays] (2025)
     * [me_Eeprom][me_Eeprom] (2025)
+    * [me_I2C][me_I2C] (2026)
     * [me_Pins][me_Pins] (2025)
     * [me_ProgramMemory][me_ProgramMemory] (2024)
     * [me_StoredCall][me_StoredCall] (2024)
     * [me_StreamTools][me_StreamTools] (2025)
     * [me_Uart][me_Uart] (2024)
+    * [me_WriteInteger][me_WriteInteger] (2024)
   * Level 5
     * [me_FrequencyGenerator][me_FrequencyGenerator] (2025)
     * [me_RunTime][me_RunTime] (2025)
@@ -46,7 +48,6 @@ Node names in SVG are clickable links to repositories.
     * [me_BooleansCodec][me_BooleansCodec] (2025)
     * [me_List][me_List] (2024)
     * [me_MemoryAllocator][me_MemoryAllocator] (2024)
-    * [me_WriteInteger][me_WriteInteger] (2024)
   * Level 8
     * [me_BaseTypesIo][me_BaseTypesIo] (2025)
   * Level 9
@@ -87,11 +88,13 @@ Node names in SVG are clickable links to repositories.
 [me_Counters]: https://github.com/martin-eden/Embedded-me_Counters
 [me_Delays]: https://github.com/martin-eden/Embedded-me_Delays
 [me_Eeprom]: https://github.com/martin-eden/Embedded-me_Eeprom
+[me_I2C]: https://github.com/martin-eden/Embedded-me_I2C
 [me_Pins]: https://github.com/martin-eden/Embedded-me_Pins
 [me_ProgramMemory]: https://github.com/martin-eden/Embedded-me_ProgramMemory
 [me_StoredCall]: https://github.com/martin-eden/Embedded-me_StoredCall
 [me_StreamTools]: https://github.com/martin-eden/Embedded-me_StreamTools
 [me_Uart]: https://github.com/martin-eden/Embedded-me_Uart
+[me_WriteInteger]: https://github.com/martin-eden/Embedded-me_WriteInteger
 
 [me_FrequencyGenerator]: https://github.com/martin-eden/Embedded-me_FrequencyGenerator
 [me_RunTime]: https://github.com/martin-eden/Embedded-me_RunTime
@@ -107,7 +110,6 @@ Node names in SVG are clickable links to repositories.
 [me_BooleansCodec]: https://github.com/martin-eden/Embedded-me_BooleansCodec
 [me_List]: https://github.com/martin-eden/Embedded-me_List
 [me_MemoryAllocator]: https://github.com/martin-eden/Embedded-me_MemoryAllocator
-[me_WriteInteger]: https://github.com/martin-eden/Embedded-me_WriteInteger
 
 [me_BaseTypesIo]: https://github.com/martin-eden/Embedded-me_BaseTypesIo
 
