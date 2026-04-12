@@ -20,11 +20,11 @@ Node names in SVG are clickable links to repositories.
   * Level 3
     * [me_BaseInterfaces][me_BaseInterfaces] (2025)
     * [me_Bits][me_Bits] (2024)
+    * [me_Delays][me_Delays] (2025)
     * [me_HardwareClockScaling][me_HardwareClockScaling] (2025)
     * [me_Interrupts][me_Interrupts] (2025)
   * Level 4
     * [me_Counters][me_Counters] (2024)
-    * [me_Delays][me_Delays] (2025)
     * [me_Eeprom][me_Eeprom] (2025)
     * [me_I2C][me_I2C] (2026)
     * [me_Pins][me_Pins] (2025)
@@ -82,11 +82,11 @@ Node names in SVG are clickable links to repositories.
 
 [me_BaseInterfaces]: https://github.com/martin-eden/Embedded-me_BaseInterfaces
 [me_Bits]: https://github.com/martin-eden/Embedded-me_Bits
+[me_Delays]: https://github.com/martin-eden/Embedded-me_Delays
 [me_HardwareClockScaling]: https://github.com/martin-eden/Embedded-me_HardwareClockScaling
 [me_Interrupts]: https://github.com/martin-eden/Embedded-me_Interrupts
 
 [me_Counters]: https://github.com/martin-eden/Embedded-me_Counters
-[me_Delays]: https://github.com/martin-eden/Embedded-me_Delays
 [me_Eeprom]: https://github.com/martin-eden/Embedded-me_Eeprom
 [me_I2C]: https://github.com/martin-eden/Embedded-me_I2C
 [me_Pins]: https://github.com/martin-eden/Embedded-me_Pins
