@@ -58,7 +58,8 @@ Node names in SVG are clickable links to repositories.
     * [me_RgbStripeConsole][me_RgbStripeConsole] (2024) RGB stripe WS2812B: Text interface for class
   * Level 11
     * [me_DebugPrints][me_DebugPrints] (2025)
-    * [me_DigitalSignalRecorder][me_DigitalSignalRecorder]
+    * [me_DigitalSignalRecorder][me_DigitalSignalRecorder] (2025)
+    * [me_I2C_Console][me_I2C_Console] (2026)
 
 * ESP8266
   * [me_WifiShip][me_WifiShip] (2023) WiFi: scan and connect
@@ -121,6 +122,7 @@ Node names in SVG are clickable links to repositories.
 
 [me_DebugPrints]: https://github.com/martin-eden/Embedded-me_DebugPrints
 [me_DigitalSignalRecorder]: https://github.com/martin-eden/Embedded-me_DigitalSignalRecorder
+[me_I2C_Console]: https://github.com/martin-eden/Embedded-me_I2C_Console
 
 [me_WifiShip]: https://github.com/martin-eden/Embedded-me_WifiShip
 
